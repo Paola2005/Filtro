@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "id": "1248",
+            "nombre": "jun",
+            "fecha": "12/12/2023",
+            "hora": "10:30",
+            "motivo": "esta que se muere"
+        },
+        {
+            "id": "21",
+            "nombre": "Pocholo",
+            "fecha": "21/5/2023",
+            "hora": "02:30",
+            "motivo": "Muerte"
+        }
+    ]
+}
